@@ -17,4 +17,5 @@ This implementation demonstrates a basic perceptron model trained using multiple
 * Update weights if prediction is incorrect
 
 ## Output
-<img width="1882" height="940" alt="image" src="https://github.com/user-attachments/assets/40c93043-4d44-47af-982f-9a694293439b" />
+<img width="886" height="719" alt="Screenshot 2026-04-10 173201" src="https://github.com/user-attachments/assets/6e9c85fd-27b2-4bce-b8b4-f80da6a2a0de" />
+
